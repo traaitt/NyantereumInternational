@@ -1,5 +1,5 @@
 # NyantereumInternational
- Nyantereum International, NYANTE Ethereum ERC20 token contract!
+ Nyantereum International, NYANTE Binance token contract!
 
 
 ### Informations
