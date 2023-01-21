@@ -16,23 +16,22 @@ Website:
 https://nyantereum.com/ 
 https://nyantereuminternational.com/ 
 
-Wallets:
-https://shop.ledger.com/pages/ledger-nano-x
-https://trezor.io/ 
-https://metamask.io/ 
-https://www.myetherwallet.com/ 
-https://mycrypto.com/
+Wallets:  
+https://shop.ledger.com/pages/ledger-nano-x  
+https://trezor.io/   
+https://metamask.io/   
+https://www.myetherwallet.com/  
+https://mycrypto.com/  
 
-Github:
+Github:  
 https://github.com/TRRXITTE/NyantereumInternational
 
-Community:
-https://www.reddit.com/r/nyantereum/
-https://twitter.com/nyantereum
-https://www.facebook.com/Nyantereum
-https://t.me/nyantereumtrade 
-https://t.me/nyantereum
-https://discord.com/invite/gkNJACF
+Community:  
+https://www.reddit.com/r/nyantereum/  
+https://twitter.com/nyantereum  
+https://www.facebook.com/Nyantereum  
+https://t.me/nyantereum  
+https://discord.com/invite/gkNJACF  
 
 Whitepaper:
 https://nyantereum.com/whitepaper.html 
